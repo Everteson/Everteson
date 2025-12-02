@@ -19,8 +19,8 @@ Sou desenvolvedor full stack e trabalho com soluções voltadas para **operaçõ
 - **Gerador de Dashboards Automáticos (em desenvolvimento)** — CSV/Excel/API → gráficos e layout automáticos  
 
 ## ⚙️ Tecnologias
-- **Back-end:** Python, Flask, FastAPI, Node.js, Flutter  
-- **Front-end:** React, Next.js, Electron, Flutter  
+- **Back-end:** Python, Flask, FastAPI, Node.js, , Dart, Flutter  
+- **Front-end:** React, Next.js, Electron, Dart, Flutter  
 - **Infra:** Docker, VPS Linux, Nginx, vLLM  
 - **IA:** Modelos open-source, visão computacional, agentes, embeddings  
 
