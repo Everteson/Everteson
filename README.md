@@ -3,7 +3,7 @@
 Sou desenvolvedor full stack e trabalho com soluções voltadas para **operações portuárias**, automações e sistemas de alta eficiência. Crio ferramentas que resolvem problemas reais — desde monitoramento portuário até aplicações SaaS completas.
 
 ## 🚀 Sobre mim
-- 🌊 Trabalho no **porto BRIOA (Itapoá/SC)** com foco em planejamento e operações
+- 🌊 Trabalho no **Porto de SC** com foco em planejamento e operações
 - 🧠 Desenvolvo sistemas inteligentes como a IA **ZETA**
 - 🖥️ Experiência com **Flask, Python, React, Electron, Node, Docker, VPS Linux**
 - 🛠️ Infraestrutura: automações, APIs, scraping, OCR, agentes e integrações
