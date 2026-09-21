@@ -179,8 +179,8 @@ Portfólio: https://portifolio.iaever.shop
 
 <br/><br/>
 
-<!-- Esta imagem só aparece depois que a Action em .github/workflows/snake.yml rodar pela primeira vez: ela publica o SVG na branch "output", que ainda não existe até a primeira execução. -->
-<img src="https://raw.githubusercontent.com/Everteson/Everteson/output/dist/github-contribution-grid-snake-dark.svg" width="100%" alt="snake de contribuições"/>
+<!-- Gerado pela Action em .github/workflows/snake.yml, que publica o SVG na raiz da branch "output" (o build_dir dist nao vira pasta no destino). -->
+<img src="https://raw.githubusercontent.com/Everteson/Everteson/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake de contribuições"/>
 
 </div>
 
