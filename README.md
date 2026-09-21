@@ -85,7 +85,7 @@ Portfólio: https://portifolio.iaever.shop
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-18313f?style=flat-square&logo=python&logoColor=22d3ee"/>
       <img src="https://img.shields.io/badge/Scraping-18313f?style=flat-square&logo=googlechrome&logoColor=38bdf8"/>
-      <img src="https://img.shields.io/badge/OCR-18313f?style=flat-square&logo=tesseract&logoColor=22d3ee"/>
+      <img src="https://img.shields.io/badge/OCR-18313f?style=flat-square&logo=googlelens&logoColor=22d3ee"/>
     </td>
     <td width="50%">
       <strong>PortoFlow</strong><br/>
@@ -170,10 +170,11 @@ Portfólio: https://portifolio.iaever.shop
 
 ### Métricas
 
+<!-- A instancia oficial github-readme-stats.vercel.app esta com deployment pausado (503). Usando o mirror da comunidade. Se a oficial voltar, basta trocar o host nas duas URLs abaixo. -->
 <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=Everteson&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=38bdf8&text_color=e2e8f0&height=195" height="195"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Everteson&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=e2e8f0&height=195" height="195"/>
-&nbsp;&nbsp;
+<br/><br/>
 <img src="https://streak-stats.demolab.com?user=Everteson&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=8b98a5&height=195" height="195"/>
 
 <br/><br/>
@@ -203,7 +204,7 @@ Portfólio: https://portifolio.iaever.shop
 </a>
 <!-- TROCAR: URL do LinkedIn -->
 <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI">
-  <img src="https://img.shields.io/badge/LinkedIn-18313f?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/LinkedIn-18313f?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzM4YmRmOCI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPgo%3D"/>
 </a>
 <!-- TROCAR: URL do Discord -->
 <a href="https://discordapp.com/users/SEU-ID-AQUI">
