@@ -1,0 +1,33 @@
+name: Gerar snake de contribuicoes
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checar out do repositorio
+        uses: actions/checkout@v4
+
+      - name: Gerar github-contribution-grid-snake-dark.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Everteson
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?color_snake=22d3ee,67e8f9&color_dots=0f2027,18313f,1a2a3a,38bdf8,22d3ee
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
