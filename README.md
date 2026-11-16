@@ -18,7 +18,6 @@ Sou desenvolvedor full stack. Trabalho no Porto de Santa Catarina com planejamen
 
 Construo ferramentas para resolver isso de verdade, do back-end ao desktop, e uso inteligência artificial como parte do trabalho, não como vitrine: visão computacional, OCR, embeddings e agentes entram quando resolvem um problema real, não por moda.
 
-Portfólio: https://portifolio.iaever.shop
 
 <br clear="right"/>
 
